@@ -16,7 +16,7 @@ export default function Home() {
           priority
         />
         <div className={styles.intro}>
-          <h3>Next.js 앱서비스 모노 배포</h3>
+          <h3>Next.js 앱서비스 모노 배포-프론트입니다!</h3>
           <ol>
             <li>API_URL: {apiUrl}</li>
             <li>BLOB_URL: {blobUrl}</li>
